@@ -2,4 +2,4 @@
 
 
 
-Create usindg Database First approach
+Create using Database First approach
